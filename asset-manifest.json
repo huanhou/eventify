@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/eventify/static/css/main.15d1a55d.css",
+    "main.js": "/eventify/static/js/main.0d6b3280.js",
+    "static/media/fa-solid-900.ttf": "/eventify/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/fa-brands-400.ttf": "/eventify/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
+    "static/media/fa-solid-900.woff2": "/eventify/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
+    "static/media/fa-brands-400.woff2": "/eventify/static/media/fa-brands-400.fdbb558523a380307689.woff2",
+    "static/media/fa-regular-400.ttf": "/eventify/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
+    "static/media/fa-regular-400.woff2": "/eventify/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
+    "static/media/fa-v4compatibility.ttf": "/eventify/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
+    "static/media/fa-v4compatibility.woff2": "/eventify/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
+    "index.html": "/eventify/index.html",
+    "main.15d1a55d.css.map": "/eventify/static/css/main.15d1a55d.css.map",
+    "main.0d6b3280.js.map": "/eventify/static/js/main.0d6b3280.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15d1a55d.css",
+    "static/js/main.0d6b3280.js"
+  ]
+}
